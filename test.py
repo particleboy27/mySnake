@@ -1,1 +1,1 @@
-print("hello world")
+print("hello world") #this is how you comment in python? lmao, i also miss semicolons
